@@ -1,1 +1,1 @@
-# python_pft
+# python_pft python training repo
